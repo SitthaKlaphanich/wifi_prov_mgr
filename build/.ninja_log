@@ -2192,3 +2192,5 @@
 91038	91313	7490396429437807	E:/wifi_prov_mgr/build/.bin_timestamp	4a6b6c43899a8fcb
 91314	91406	0	esp-idf/esptool_py/CMakeFiles/app_check_size	505649d40d86c87a
 91314	91406	0	E:/wifi_prov_mgr/build/esp-idf/esptool_py/CMakeFiles/app_check_size	505649d40d86c87a
+56	1867115	0	CMakeFiles/confserver	510dacf71ef9a3a8
+56	1867115	0	E:/wifi_prov_mgr/build/CMakeFiles/confserver	510dacf71ef9a3a8
